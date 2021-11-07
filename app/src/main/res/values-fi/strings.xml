@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GiphyProjectApp</string>
+    <string name="titleText">Huomenta Giffit!</string>
+    <string name="enter_search_term">Anna haku termi</string>
+    <string name="search_amount">Gifien määrä</string>
+    <string name="search_offset">Gif offset suomeksi</string>
+    <string name="search_button_text">Tallenna haku termit</string>
+    <string name="errorMSG">Jotain meni pieleen!</string>
+    <string name="view_button_text" >Hae giffejä</string>
+</resources>

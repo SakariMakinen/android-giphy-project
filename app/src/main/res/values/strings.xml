@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GiphyProjectApp</string>
+    <string name="titleText">Hello Gifs!</string>
+    <string name="enter_search_term">Enter search term</string>
+    <string name="search_amount">Gif amount</string>
+    <string name="search_offset">Gif offset</string>
+    <string name="search_button_text">Save search terms</string>
+    <string name="errorMSG">That didn\'t work!</string>
+    <string name="view_button_text" >get some gifs</string>
+</resources>
