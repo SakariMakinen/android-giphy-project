@@ -4,13 +4,14 @@
 Android manifest for permissions:
 https://github.com/SakariMakinen/android-giphy-project/blob/main/app/src/main/AndroidManifest.xml
 
-###Java code:
+### Java code:
 
 MainActivity.java:
 https://github.com/SakariMakinen/android-giphy-project/blob/main/app/src/main/java/com/example/giphyprojectapp/MainActivity.java
 
 ResultsActivity.java:
 https://github.com/SakariMakinen/android-giphy-project/blob/main/app/src/main/java/com/example/giphyprojectapp/ResultsActivity.java
+
 
 ### Layout XML
 activity_main.xml:
@@ -22,7 +23,8 @@ https://github.com/SakariMakinen/android-giphy-project/blob/main/app/src/main/re
 listview_item_image.xml:
 https://github.com/SakariMakinen/android-giphy-project/blob/main/app/src/main/res/layout/listview_item_image.xml
 
-###String values
+
+### String values
 English:
 https://github.com/SakariMakinen/android-giphy-project/blob/main/app/src/main/res/values/strings.xml
 
